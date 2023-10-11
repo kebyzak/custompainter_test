@@ -1,3 +1,7 @@
 # custompainter_test
 
-A new Flutter project.
+<img src="1.png">
+<br />
+<img src="2.png">
+<br />
+<img src="3.png">
